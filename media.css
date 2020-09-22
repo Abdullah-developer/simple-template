@@ -1,0 +1,39 @@
+/* Media for Mobile ( xs screen ) */
+
+@media (max-width:767px)
+{
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse {
+        max-height: none;
+    }
+    .align-div-center {
+        text-align: center;
+    }
+    .subscribe .form-control {
+        margin: 15px auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        width: 400px;
+    }
+}
+
+/* Media for Small screen */
+
+@media (min-width:768px) and (max-width:991px)
+{
+    
+}
+
+/* Media for Medium screen */
+
+@media (min-width:992px) and (max-width:1199px)
+{
+    
+}
+
+/* Media for Large screen */
+
+@media (min-width:1200px)
+{
+    
+}

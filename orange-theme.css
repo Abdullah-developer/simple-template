@@ -1,0 +1,56 @@
+/***  START The Default Theme  ***/
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.option-box .gear-checked,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active
+{
+    background-color: #ad6214;
+}
+.design,
+.About h1 span,
+.price-table .price-box h2,
+.testimonials h1:first-letter,
+.price-table .price-box p,
+.subscribe h1:first-letter,
+.skills h1:first-letter,
+.footer .copyright span {
+    color: #ad6214;
+}
+.option-box .color-option,
+.testimonials .carousel-indicators li.active,
+.price-table .price-box:hover
+{
+    border: 3px solid #ad6214;
+}
+.dropdown-menu {
+    border-top: 3px solid #ad6214;
+}
+#scroll-top {
+    background-color: #ad6214;
+    color: #CDCDCD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

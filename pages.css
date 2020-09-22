@@ -1,0 +1,90 @@
+/* START About */
+
+.breadcrumb-holder {
+    background-color: #F5F5F5;
+    margin-top: -20px;
+}
+.breadcrumb-holder .breadcrumb {
+    padding: 10px 0;
+    margin: 0;
+}
+.about {
+    padding: 70px 0;
+}
+.about h1 {
+    font-weight: bolder;
+    letter-spacing: -3px;
+    font-size: 63px;
+}
+.about hr {
+    width: 50%;
+}
+.about img {
+    height: 450px;
+    width: 900px;
+}
+.about-features {
+    padding-bottom: 70px;
+}
+.about-features h3 {
+    font-weight: bolder;
+}
+.about-features p {
+    margin-bottom: 20px;
+}
+.about-ceo {
+    background-color: #F5F5F5;
+    padding-top: 40px;
+}
+.about-ceo h2 {
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.about-ceo .lead {
+    line-height: 1.7;
+}
+.about-ceo .btn-primary {
+    background-color: #333;
+    border-color: #333;
+    padding: 4px;
+    width: 120px;
+    transition: all .5s ease;
+    margin-bottom: 20px;
+}
+.about-ceo .btn-primary:hover {
+    background-color: #555
+}
+/* END About */
+.faq {
+    margin-bottom: 50px;
+}
+.faq h1 {
+    font-weight: bolder;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.faq h1 ~ hr {
+    width: 70%;
+}
+
+
+.panel-default > .panel-heading {
+    padding: 15px;
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    padding: 15px;
+    font-size: 16px;
+}
+.faq-accordions {
+    margin-bottom: 50px;
+}
+.faq-accordions .panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: '\e114';
+    float: right;
+}
+
+
+
+
